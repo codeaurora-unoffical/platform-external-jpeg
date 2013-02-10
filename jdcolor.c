@@ -2,7 +2,7 @@
  * jdcolor.c
  *
  * Copyright (C) 1991-1997, Thomas G. Lane.
- * Copyright (c) 2010, Code Aurora Forum. All rights reserved.
+ * Copyright (c) 2010, The Linux Foundation. All rights reserved.
  * This file is part of the Independent JPEG Group's software.
  * For conditions of distribution and use, see the accompanying README file.
  *
